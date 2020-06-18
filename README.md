@@ -18,3 +18,6 @@ Cat rig + textures added
 
 v1.1
 Dog rig + textures added
+
+v1.2
+Bat rig + texture added
