@@ -24,3 +24,6 @@ Bat rig + texture added
 
 v1.3
 Fox rig + textures added
+
+v1.4
+Dolphin rig + texture added
