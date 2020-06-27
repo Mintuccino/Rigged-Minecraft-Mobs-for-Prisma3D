@@ -27,3 +27,6 @@ Fox rig + textures added
 
 v1.4
 Dolphin rig + texture added
+
+v1.5
+Cow rig + textures added
