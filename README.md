@@ -30,3 +30,6 @@ Dolphin rig + texture added
 
 v1.5
 Cow rig + textures added
+
+v1.6
+Enderman rig + texture added!
