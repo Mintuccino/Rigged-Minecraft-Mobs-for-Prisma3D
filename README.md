@@ -33,3 +33,6 @@ Cow rig + textures added
 
 v1.6
 Enderman rig + texture added!
+
+v1.7
+Chicken, Hoglin, Iron Golem and Horse rigs + textures have been added
