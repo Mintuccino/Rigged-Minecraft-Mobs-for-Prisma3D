@@ -36,3 +36,6 @@ Enderman rig + texture added!
 
 v1.7
 Chicken, Hoglin, Iron Golem and Horse rigs + textures have been added
+
+v1.8
+Creeper and Parrot rig + textures added!
