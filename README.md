@@ -39,3 +39,6 @@ Chicken, Hoglin, Iron Golem and Horse rigs + textures have been added
 
 v1.8
 Creeper and Parrot rig + textures added!
+
+v1.9
+Blaze and panda rig + textures added!
