@@ -42,3 +42,6 @@ Creeper and Parrot rig + textures added!
 
 v1.9
 Blaze and panda rig + textures added!
+
+v1.10
+witch and Skeleton rig + textures added!
