@@ -45,3 +45,6 @@ Blaze and panda rig + textures added!
 
 v1.10
 witch and Skeleton rig + textures added!
+
+v1.11
+Added 13 rigged mobs with custom eyes, don't worry you can still use the ones without them!
