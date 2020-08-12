@@ -51,3 +51,6 @@ Added 13 rigged mobs with custom eyes, don't worry you can still use the ones wi
 
 v1.12
 Pig and Llama rig + textures added!
+
+v1.13
+Phantom rig + textures added!
