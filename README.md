@@ -54,3 +54,6 @@ Pig and Llama rig + textures added!
 
 v1.13
 Phantom rig + textures added!
+
+v1.14
+Ghast and Turtle rig + textures added!
