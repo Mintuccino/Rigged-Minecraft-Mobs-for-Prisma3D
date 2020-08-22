@@ -57,3 +57,6 @@ Phantom rig + textures added!
 
 v1.14
 Ghast and Turtle rig + textures added!
+
+v1.15
+Spider and Sheep rig + textyres added!
